@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Neon Workout Timer</string>
+    <string name="about_the_app">About the App</string>
+    <string name="about_description">
+        Created and maintained by two college students.\nOffers a simple and minimalistic experience to tracking your workout time.\nWe thank you for downloading the app.\nYou are awesome :D
+    </string>
+    <string name="developers">Developers</string>
+    <string name="nikola_drljaca">Nikola Drljaca</string>
+
+    <string name="github_nikola">https://github.com/nikolaDrljaca</string>
+    <string name="github_ognjen">https://github.com/drljacao96</string>
+    <string name="ognjen_drljaca">Ognjen Drljaca</string>
+</resources>
